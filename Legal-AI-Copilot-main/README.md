@@ -157,9 +157,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👨‍💻 Credits & Contact
 
-Designed and Developed by: **webpagesbypatel**
-
-*   **GitHub:** [@webpagesbypatel](https://github.com/webpagesbypatel)
-*   **Project Repository:** [https://github.com/webpagesbypatel/Legal-Copilot](https://github.com/webpagesbypatel/Legal-Copilot)
